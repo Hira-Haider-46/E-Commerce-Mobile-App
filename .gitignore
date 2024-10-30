@@ -2,6 +2,8 @@
 #
 .DS_Store
 
+android/app/src/debug.keystore
+
 # Xcode
 #
 build/
